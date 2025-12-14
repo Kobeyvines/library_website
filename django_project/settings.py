@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework', # Add this if not already
+    # 3rd Party
     'drf_spectacular', # Add this
     # Local
     "books.apps.BooksConfig", # new
